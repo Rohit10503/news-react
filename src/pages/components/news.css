@@ -1,0 +1,10 @@
+.button{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.heading{
+    text-align: center;
+    margin-top: 65px;
+    margin-bottom: 10px;
+}
